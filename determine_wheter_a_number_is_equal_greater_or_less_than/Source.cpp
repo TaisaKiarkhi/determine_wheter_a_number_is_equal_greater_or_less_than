@@ -6,7 +6,7 @@ int main() {
 
 	double a{};
 
-	cout << "Please, enter a positive number between 1 and 100. The program will calculate if greater than, less than or equal to 50"<<endl;
+	cout << "Please, enter a positive number between 1 and 100. The program will calculate if the number is greater than, less than or equal to 50"<<endl;
 	cout << "Please, enter your number: ";
 	cin >> a;
 
